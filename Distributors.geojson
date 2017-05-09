@@ -257,6 +257,22 @@
           22.288103695402054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Lattel",
+        "Role": "Distributor",
+        "Website": "http://www.lattel.com.my",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788595,
+          1.555068
+        ]
+      }
     }
   ]
 }
